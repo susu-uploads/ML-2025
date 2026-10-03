@@ -1,5 +1,3 @@
-# Машинное обучение
+# 2025/2026 Машинное обучение (очная)
 
-Machine Learning — ML-2025.
-
-[Описание курса](COURSE.md) · [Лекции](lecture/) · [Практические работы](practice/) · [Литература](LIBRARY.md)
+## Machine Learning
